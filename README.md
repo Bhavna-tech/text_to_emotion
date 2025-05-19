@@ -4,12 +4,19 @@ This project detects emotions (joy, sadness, anger, etc.) from text using classi
 
 ##  Folder Structure
 TEXT_TO_EMOTION/
+
 ├── data/ # Raw dataset (train/val/test)
+
 ├── notebooks/ # EDA and visualization
+
 ├── src/ # Codebase (data loading, model, features)
+
 ├── tests/ # Unit tests
+
 ├── run.py # Training and inference entrypoint
+
 ├── requirements.txt # Python package dependencies
+
 ├── .env # PYTHONPATH
 
 
