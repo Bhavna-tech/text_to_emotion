@@ -12,6 +12,7 @@ TEXT_TO_EMOTION/
 ├── run.py # Training and inference entrypoint
 ├── requirements.txt # Python package dependencies
 ├── .env # PYTHONPATH
+```
 
 
 ## How to Run
